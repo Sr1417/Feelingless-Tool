@@ -6,4 +6,4 @@
 
 * `ls`
 
-* `python Multi_postpy`
+* `python Multi_post.py`
