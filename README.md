@@ -1,3 +1,6 @@
+* `pkg install bs4`
+
+
 * `rm -rf Feelingless-Tool`
 
 * `git clone https://github.com/Sr1417/Feelingless-Tool.git`
